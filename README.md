@@ -1,3 +1,3 @@
 # [`Breadth.me`](https://breadth.me) - Market Breadth Monitor
 
-<img width="1474" alt="breadth-demo" src="https://github.com/user-attachments/assets/688ed8a8-a011-42c8-8a12-71562ba1f2f3" />
+![breadth-demo](https://github.com/user-attachments/assets/b7d5aea2-d30a-45c4-bb66-1be582c70f45)
