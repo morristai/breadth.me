@@ -1,4 +1,4 @@
-# [Breadth.me](https://breadth.me) - Market Breadth Monitor
+# [Breadth.me](https://breadth.me/?kiosk) - Market Breadth Monitor
 
 <img src="https://github.com/user-attachments/assets/1c725913-c331-4d49-857f-47429bb94145" alt="breadth-me-logo" width="100" align="left">
 
