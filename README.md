@@ -1,8 +1,6 @@
-# [Breadth.me](https://breadth.me/?kiosk) - Market Breadth Monitor
-
 <img src="https://github.com/user-attachments/assets/1c725913-c331-4d49-857f-47429bb94145" alt="breadth-me-logo" width="100" align="left">
 
-# Introduction
+# [Breadth.me](https://breadth.me/?kiosk) - Market Breadth Monitor
 
 `Breadth.me` offers a statistical overview of the market breadth. It is designed to assist investors in gaining a clearer understanding of sector and factor performance, highlighting relative strengths and weaknesses.
 
@@ -18,12 +16,12 @@ Some example use cases
 
 # Roadmap
 
-- [ ] Add alerts based on defined conditions
-- [ ] Add more groups (e.g., Russell 2000) sector breadth.
+- [ ] Add alerts based on defined conditions.
+- [ ] Add more groups (e.g., Russell 2000) in sector breadth.
 
 # Feature Requests
 
-Please feel free to join the [Discord](https://discord.gg/v8xQvWCSuf) to provide your wishlist or discuss any ideas. Or simply create a GitHub issue [Here](https://github.com/morristai/breadth.me/issues).
+Please feel free to provide your wishlist or discuss any ideas by simply creating a GitHub issue [Here](https://github.com/morristai/breadth.me/issues).
 
 # Relative Indicators
 
@@ -36,4 +34,5 @@ Here are some useful indicators that can combine with the breadth score to make 
 
 # Release Notes
 
-- [v0.0.1](https://breadth.me/release-notes/v1.0.0) - Initial release
+- [v0.0.2] - Add factor strength and standard deviation.
+- [v0.0.1] - Initial release
