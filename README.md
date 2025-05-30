@@ -14,11 +14,6 @@ Some example use cases
 - Average breadth score reflects the overall market risk factor. In a bull market, if sector breadth is below 20, it’s a good time to buy. In both bull and bear markets, if it’s above 85, it’s a good time to sell.
 - Standard deviation can help determine whether the current market is experiencing overall market risk or a sector/factor rotation. Higher values suggest that a rotation is more likely, while lower values indicate a greater probability of market risk.
 
-# Roadmap
-
-- [ ] Add alerts based on defined conditions.
-- [ ] Add more groups (e.g., Russell 2000) in sector breadth.
-
 # Feature Requests
 
 Please feel free to provide your wishlist or discuss any ideas by simply creating a GitHub issue [Here](https://github.com/morristai/breadth.me/issues).
